@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 725.69 98.55">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: white;
+        font-family: ErasITC-Bold, 'Eras Bold ITC';
+        font-size: 90.96px;
+        font-weight: 700;
+      }
+
+      .cls-2 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-3 {
+        letter-spacing: 0em;
+      }
+
+      .cls-4 {
+        letter-spacing: 0em;
+      }
+
+      .cls-5 {
+        letter-spacing: -.08em;
+      }
+
+      .cls-6 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-7 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-8 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-9 {
+        letter-spacing: -.05em;
+      }
+
+      .cls-10 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-11 {
+        letter-spacing: 0em;
+      }
+
+      .cls-12 {
+        letter-spacing: .03em;
+      }
+
+      .cls-13 {
+        letter-spacing: -.03em;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <text class="cls-1" transform="translate(0 75.81)"><tspan class="cls-13" x="0" y="0">F</tspan><tspan class="cls-12" x="53.31" y="0">L</tspan><tspan class="cls-3" x="109.36" y="0">A</tspan><tspan class="cls-7" x="183" y="0">S</tspan><tspan class="cls-11" x="231.74" y="0">H</tspan><tspan class="cls-5" x="305.42" y="0">P</tspan><tspan class="cls-9" x="356.43" y="0">A</tspan><tspan class="cls-6" x="426.28" y="0">C</tspan><tspan class="cls-10" x="485.83" y="0">K</tspan><tspan class="cls-2" x="554.26" y="0">E</tspan><tspan class="cls-8" x="613.15" y="0">R</tspan><tspan class="cls-4" x="675.42" y="0">S</tspan></text>
+  </g>
+</svg>

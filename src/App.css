@@ -1,0 +1,10 @@
+html{
+    height: 1vh;
+}
+body{
+    height: inherit;
+}
+:root{
+    --bg-color:#0F4458;
+    --bg-hover:#a5d2e2;
+}
