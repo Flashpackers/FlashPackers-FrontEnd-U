@@ -294,7 +294,7 @@ const YourCart: React.FC<YourCartProps> = ({handleBack}) => {
               {!summary&&<img src={Up} alt="" height={'10px'} width={'10px'} />}
               {summary&&<img src={Down} alt="" height={'10px'} width={'10px'} />}
             </button>
-            <button id='placeorder' onClick={() => { setShowForm(true) }} className='w-full h-12 m-auto rounded-full text-lg font-semibold'>
+            <button id='placeorder' onClick={() => { setShowForm(true);setSummary(false) }} className='w-full h-12 m-auto rounded-full text-lg font-semibold'>
               Checkout
             </button>
           </div>
